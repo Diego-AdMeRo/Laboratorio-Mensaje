@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaboratorioMensajesIntent</string>
+    <string name="hint_email">Enter Email To</string>
+    <string name="hint_subject">Enter Subject</string>
+    <string name="hint_message">Enter Message</string>
+    <string name="send_external">Send Message To Another Application</string>
+    <string name="send_internal">Send Message To Internal Activity</string>
+</resources>
